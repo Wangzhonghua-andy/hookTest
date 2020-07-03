@@ -1,0 +1,63 @@
+{
+    "isDebug": true,
+    "isNeedRecent": true,
+    "prjPath": "Assets/",
+    "globalPermission": 0,
+    "globalWhiteUsers": [
+        "lilei",
+        "wangzhonghua.andy1111"
+    ],
+    "isNeedMeta": true,
+    "metaUser": [
+        "wangzhonghua.andy111"
+    ],
+    "isCanContainSpace": false,
+    "isCanCantainChinese": false,
+    "isAllowMgrKey": true,
+    "mgrKey": "key",
+    "deniedExt": [
+        ".dds",
+        ".psd"
+    ],
+    "permissionExt": [
+        ".shader"
+    ],
+    "permissionExtUsers": [
+        "wangzhonghua.andy"
+    ],
+    "dirs": [
+        {
+            "path": "Assets/Art",
+            "permission": 2,
+            "whiteUsers": [
+                "hanmeimei"
+            ]
+        },
+        {
+            "path": "Assets/ResourcesAssets",
+            "permission": 2,
+            "whiteUsers": [
+                "lilei",
+                "hanmeimei"
+            ]
+        },
+        {
+            "path": "Assets/Resources",
+            "permission": 1,
+            "whiteUsers": [
+                "lilei",
+                "hanmeimei",
+                "wangzhonghua.andy"
+            ]
+        },
+        {
+            "path": "Assets/Scenes/StartWithNetwork.unity",
+            "permission": 1,
+            "whiteUsers": [
+                "lilei",
+                "hanmeimei",
+                "wangzhonghua.andy"
+            ]
+        }
+    ]
+}
